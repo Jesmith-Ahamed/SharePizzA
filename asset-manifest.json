@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PizzA/static/css/main.cd3321b5.css",
+    "main.js": "/PizzA/static/js/main.7f732ace.js",
+    "static/media/one.jpeg.jpg": "/PizzA/static/media/one.jpeg.b9c345353b99a287725d.jpg",
+    "static/media/center.jpeg": "/PizzA/static/media/center.73e62d9a568c4d07817a.jpeg",
+    "static/media/bootstrap-icons.woff?": "/PizzA/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/PizzA/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/two.jpeg": "/PizzA/static/media/two.08defbaa3dd2dad5e91a.jpeg",
+    "static/media/three.jpeg": "/PizzA/static/media/three.926b139af6f77ede7311.jpeg",
+    "static/media/one.jpeg": "/PizzA/static/media/one.a1862783dee2487adabf.jpeg",
+    "index.html": "/PizzA/index.html",
+    "main.cd3321b5.css.map": "/PizzA/static/css/main.cd3321b5.css.map",
+    "main.7f732ace.js.map": "/PizzA/static/js/main.7f732ace.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd3321b5.css",
+    "static/js/main.7f732ace.js"
+  ]
+}
